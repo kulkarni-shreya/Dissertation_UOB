@@ -11,3 +11,5 @@ The dataset is not uploaded to this repository due to its high volume. It is ava
 Prerequisites:
 - Python 3.8+
 - Libraries: pandas, numpy, seaborn, matplotlib, Scikit-learn
+
+Access the notebook for the project code.
